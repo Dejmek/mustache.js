@@ -1,4 +1,4 @@
-# mustache.js - Logic-less {{mustache}} templates with JavaScript
+﻿# mustache.js - Logic-less {{mustache}} templates with JavaScript a
 
 > What could be more logical awesome than no logic at all?
 
